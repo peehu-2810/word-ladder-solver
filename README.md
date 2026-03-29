@@ -20,12 +20,12 @@ The algorithm guarantees the shortest transformation sequence by exploring all p
 ## Project Structure
 
 word-ladder-solver/
-│
-├── main.py            # Handles user input and execution
-├── solver.py          # Contains BFS implementation
-├── words.txt          # Dictionary of valid words
-├── README.md          # Project documentation
-└── requirements.txt   # Dependencies (none required)
+
+── main.py            # Handles user input and execution
+── solver.py          # Contains BFS implementation
+── words.txt          # Dictionary of valid words
+── README.md          # Project overview
+── requirements.txt   # Dependencies (none required)
 
 ---
 
@@ -33,7 +33,7 @@ word-ladder-solver/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/word-ladder-solver
+git clone https://github.com/peehu-2810/word-ladder-solver
 
 2. Navigate to the project directory:
 
