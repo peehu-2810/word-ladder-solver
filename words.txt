@@ -1,0 +1,12 @@
+cat
+bat
+bet
+bed
+bad
+had
+hat
+hot
+dot
+dog
+log
+cog
